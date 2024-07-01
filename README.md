@@ -16,8 +16,8 @@ A website where you can view and style your own newly released wristwatch. This 
 
 ## What I Learned
 
-I learned to use 3d in react js
+1. I learned to use 3d in react js
 
-I learned to use tailwind as efficient as possible
+2. I learned to use tailwind as efficient as possible
 
-I learned how to create animated stuff with css
+3. I learned how to create animated stuff with css
